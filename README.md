@@ -179,32 +179,6 @@ Ham Probability  : 0.0016
 
 ---
 
-# Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd your-repository
-```
-
-Install all required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the project:
-
-```bash
-python sms_spam_classifier.py
-```
-
 ---
 
 # Results
