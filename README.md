@@ -44,16 +44,20 @@ Classes:
 # Project Structure
 
 ```text
+```text
 SMS-Spam-Classifier/
+│
+├── images/
+│   ├── class_distribution.png
+│   ├── confusion_matrix.png
+│   └── roc_curve.png
 │
 ├── spam.csv
 ├── sms_spam_classifier.py
 ├── requirements.txt
-├── README.md
-│
-├── class_distribution.png
-├── confusion_matrix.png
-└── roc_curve.png
+└── README.md
+```
+
 ```
 
 ---
