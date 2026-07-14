@@ -141,7 +141,7 @@ Using multiple evaluation metrics provides a better understanding of model perfo
 
 Shows the distribution of Ham and Spam messages within the dataset.
 
-![Class Distribution](class_distribution.png)
+![Class Distribution](images/class_distribution.png)
 
 ---
 
@@ -149,7 +149,7 @@ Shows the distribution of Ham and Spam messages within the dataset.
 
 Displays the number of correct and incorrect predictions made by the classifier.
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
@@ -157,7 +157,7 @@ Displays the number of correct and incorrect predictions made by the classifier.
 
 Illustrates the model's ability to distinguish between Spam and Ham across different classification thresholds.
 
-![ROC Curve](roc_curve.png)
+![ROC Curve](images/roc_curve.png)
 
 ---
 
